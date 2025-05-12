@@ -1,0 +1,12 @@
+teleop_twist_joy:
+  ros__parameters:
+    axis_linear:
+      x: 1
+    scale_linear:
+      x: 0.7
+    axis_angular:
+      z: 2
+    scale_angular:
+      z: 0.4
+    enable_button: 2
+

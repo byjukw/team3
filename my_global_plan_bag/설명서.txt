@@ -1,0 +1,2 @@
+// 아래 명령어로 실행
+ros2 bag play my_global_plan_bag 
